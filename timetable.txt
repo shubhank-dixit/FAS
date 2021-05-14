@@ -1,0 +1,27 @@
+00:00:00	Monday	         Tuesday	Wednesday 	Thursday	Friday	
+08:00:00			  mft		Csf		csf             mt
+08:30:00							
+09:00:00	B.tech mft					 	
+09:30:00							
+10:00:00	Csf		  csf		bao		               Bao
+10:30:00							
+11:00:00							mt
+11:30:00	 		 Ifm				
+12:00:00							
+12:30:00					Mt		
+01:00:00	Ifm 						ifm            Mt
+01:30:00			 Mft 				
+02:00:00							
+02:30:00							
+03:00:00					Mt		               IFM
+03:30:00							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+
